@@ -6,7 +6,7 @@ import TrendingCard from "./components/TrendingCard";
 import Topselling from "./components/Topselling";
 import Review from "./components/Review";
 import O2section from "./components/O2section";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 
 function App() {
   return (
