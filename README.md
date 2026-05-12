@@ -1,16 +1,197 @@
-# React + Vite
+# FloraVision 🌿
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FloraVision is a modern plant-store landing page built using React.js, JavaScript, and Tailwind CSS.
 
-Currently, two official plugins are available:
+The project recreates the provided Figma design with a pixel-perfect UI, responsive layouts, reusable components, and glassmorphism-inspired styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Add your deployed link here:
 
-## Expanding the ESLint configuration
+```bash
+--https://green2-eosin.vercel.app/
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+# 📂 GitHub Repository
+
+Add your GitHub repository link here:
+
+```bash[
+https://github.com/MohammedJunedKilaniya/floravision](https://github.com/MohammedJunedKilaniya/green2)
+```
+
+---
+
+# 📌 Project Goal
+
+Recreate the Figma page exactly as designed — pixel-perfect, responsive, and functional across all devices.
+
+Focus areas:
+- Clean reusable components
+- Responsive layouts
+- Modern UI/UX
+- Accurate spacing & typography
+- Smooth interactions
+- Accessibility & performance
+
+---
+
+# 🛠️ Tech Stack
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- Vite
+- Git & GitHub
+- Vercel
+
+---
+
+# ✨ Features
+
+## Navbar
+- Brand logo
+- Navigation links
+- Search/cart/user icons
+- Responsive layout
+
+## Hero Section
+- Full-width banner
+- CTA buttons
+- Glassmorphism UI
+- Decorative plant visuals
+
+## Trending Plants
+- Highlighted product cards
+- Hover effects
+- Product pricing
+
+## Top Selling Plants
+- Responsive product grid
+- Reusable card components
+- Smooth transitions
+
+## Customer Reviews
+- Testimonial cards
+- User avatars
+- Ratings section
+
+## O₂ Plants Section
+- Featured glassmorphism card
+- Informative content
+- CTA interaction
+
+## Footer
+- Newsletter subscription
+- Quick links
+- Social media section
+
+---
+
+# 📱 Responsiveness
+
+The website is designed to work seamlessly across:
+- Desktop
+- Tablet
+- Mobile devices
+
+Responsive range:
+- 320px → 1440px
+
+---
+
+# 🎨 Design & Styling
+
+- Pixel-perfect Figma recreation
+- Tailwind CSS utility styling
+- Glassmorphism effects
+- Green blurred gradients
+- Responsive spacing & typography
+- Smooth hover animations
+
+---
+
+# ♿ Accessibility
+
+- Semantic HTML
+- Alt text for images
+- Keyboard-accessible elements
+- Responsive rendering
+
+---
+
+# ⚡ Performance Optimizations
+
+- Optimized images
+- Reusable React components
+- Lightweight UI structure
+- Fast Vite build system
+
+---
+
+# 📁 Folder Structure
+
+```bash
+src/
+ ├── assets/
+ ├── components/
+ │    ├── Navbar.jsx
+ │    ├── HeroSection.jsx
+ │    ├── TrendingCard.jsx
+ │    ├── Topselling.jsx
+ │    ├── Review.jsx
+ │    ├── O2section.jsx
+ │    └── Footer.jsx
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+# 🔧 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/floravision.git
+```
+
+Go to project folder:
+
+```bash
+cd floravision
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+# 🌐 Deployment
+
+This project is deployed using:
+
+- Vercel
+
+--https://green2-eosin.vercel.app/
+
+
+
+# 👨‍💻 Author
+
+Developed by Juned Kilaniya
+
+---
